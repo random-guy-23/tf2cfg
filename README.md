@@ -10,3 +10,5 @@ This gets rid of ragdolls, so if you like the comedic look of them, then just do
 
 If you already have a `autoexec` folder in your `custom` folder, then just copy&paste the stuff in my `autoexec` and paste it at the bottom of yours.
 
+If you don't want a certain command for whatever reason, then add a double backslash (//) in front of the command.
+
